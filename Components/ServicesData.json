@@ -1,0 +1,28 @@
+{
+  "data": {
+    "services": [
+      { "type": "30 min Touch Up", "price": 2 },
+      { "type": "Full set of Eyelash Extensions", "price": 4 },
+      { "type": "Lash Refill", "price": 6 },
+      { "type": "EyeLash Extension Removal", "price": 8 },
+      { "type": "New Guest Eyelash Extension", "price": 10 }
+    ],
+    "addon": [
+      { "type": "3D Classic Volume Full Set", "price": 6 },
+      { "type": "3D Classic Volume Full Set Refill", "price": 4 },
+      { "type": "6D Glam Volume Full Set", "price": 8 },
+      { "type": "6D Glam Volume Full Set Refill", "price": 5 }
+    ],
+    "stylish": [
+      { "type": "No prefrences", "price": 5 },
+      { "type": "Style 1", "price": 5 },
+      { "type": "Style 2", "price": 5 },
+      { "type": "Style 3", "price": 5 },
+      { "type": "Style 4", "price": 5 },
+      { "type": "Style 5", "price": 5 }
+    ],
+    "timings": [
+      "9:00 am", "11:00 am", "2:00 pm", "4:00 pm", "6:00 pm"
+    ]
+  }
+}
